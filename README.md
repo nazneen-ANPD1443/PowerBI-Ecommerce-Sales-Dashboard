@@ -91,10 +91,6 @@ The dashboard transforms raw ecommerce data into meaningful insights through dyn
 ---
 
 ## 👤 Author
-Nazneen  
-Power BI Developer | Data Analytics Enthusiast
-
-👤 Author
 Nazneen | Data Analytics Enthusiast
 I am an MBA in HR who believes data is essential for effective decision-making.
 Through this Power BI dashboard, I demonstrate how analytical thinking and business knowledge together create impactful insights.
